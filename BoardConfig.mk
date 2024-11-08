@@ -90,9 +90,7 @@ PLATFORM_VERSION := 16.1.0
 # TWRP Configuration
 TW_INCLUDE_NTFS_3G := true
 TW_USE_TOOLBOX := true
-TW_EXCLUDE_TWRPAPP := true
-TW_EXCLUDE_SUPERSU := true
-TW_THEME := portrait_hdpi
+TW_THEME := portrait_mdpi
 TW_EXTRA_LANGUAGES := false
 TW_SCREEN_BLANK_ON_BOOT := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
@@ -102,3 +100,6 @@ TW_EXCLUDE_BASH := true
 TW_EXCLUDE_PYTHON := true
 TW_EXCLUDE_TZDATA := true
 TW_EXCLUDE_MTP := true
+TW_EXCLUDE_SUPERSU := true
+TW_EXCLUDE_TWRPAPP := true
+

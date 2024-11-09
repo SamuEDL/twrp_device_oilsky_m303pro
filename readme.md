@@ -1,4 +1,5 @@
 ## Features/Caracteristicas:
+
 | Item                      | Description |
 |---------------------------|-------------|
 | CPU             | Mediatek  MT6750v (OctaCore Cortex-A53 1,5Ghz)       |

@@ -12,4 +12,7 @@
 | Batery / Batería                  | -  |
 | Android                    | 9.0  |
 | Arquitectura                    | aarch64  |
-| Kernel                    | 3.18.119  |
+| Kernel                    | Prebuilt (3.18.119=  |
+
+## ¿Funciona? 
+No, ya que la particion es muy pequeña para un TWRP con el kernel prebuilt.

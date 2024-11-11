@@ -13,4 +13,5 @@
 | Android                    | 9.0  |
 | Arquitectura                    | aarch64  |
 | Kernel                    | Prebuilt (3.18.119)  |
+| Recovery Partition Size  | 16 MB  |
 
